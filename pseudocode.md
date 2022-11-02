@@ -43,6 +43,7 @@ Tugas 2
 
 
 Tugas 3
+bilangan = 99
 
 Program Menentukan_bilangan_ganjil_dan_genap
 

@@ -28,8 +28,10 @@ Deklarasi
 var panjang,lebar:integer;
 
 Algoritma
-panjang( )
-lebar ( )
+
+panjang(10)
+
+lebar (5)
 
 Luas <- (Panjang * lebar)
 

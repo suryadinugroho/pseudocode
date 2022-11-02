@@ -1,8 +1,8 @@
 cara membuka hasil java di google
 
-klik kanan lalu pilih inspect
+1.klik kanan lalu pilih inspect
 
-pilih console dibagian layar kiri
+2.pilih console dibagian layar kiri
 
 
 

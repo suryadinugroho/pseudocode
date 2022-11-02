@@ -1,4 +1,5 @@
 Tugas nomer 1
+
 Program Menghitung_luas_persegi_panjang
 
 Deklarasi
@@ -18,6 +19,7 @@ Tugas 2
 
 
 Tugas 3
+
 Program Menentukan_bilangan_ganjil_dan_genap
 
 Deklarasi
@@ -35,6 +37,7 @@ hasil = Bilangan % 2
 
 
 Tugas 4
+
 Program Menghitung_luas_lingkaran
 
 Deklarasi

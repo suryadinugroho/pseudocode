@@ -1,8 +1,10 @@
 cara membuka hasil java di google
 
-1.klik kanan lalu pilih inspect
+1.open filenya ke googlr chrome
 
-2.pilih console dibagian layar kiri
+2.lalu klik kanan pilih inspect
+
+3.pilih console dibagian layar kiri
 
 
 

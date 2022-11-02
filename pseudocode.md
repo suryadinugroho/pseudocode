@@ -1,4 +1,4 @@
-*Tugas nomer 1*
+Tugas nomer 1
 Program Menghitung_luas_persegi_panjang
 
 Deklarasi
@@ -13,11 +13,11 @@ Luas <- (Panjang * lebar)
 write (luas)
 
 
-*Tugas 2*
+Tugas 2
 
 
 
-*Tugas 3*
+Tugas 3
 Program Menentukan_bilangan_ganjil_dan_genap
 
 Deklarasi
@@ -34,7 +34,7 @@ hasil = Bilangan % 2
         bilangan genap
 
 
-*Tugas 4*
+Tugas 4
 Program Menghitung_luas_lingkaran
 
 Deklarasi

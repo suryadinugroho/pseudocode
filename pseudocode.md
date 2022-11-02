@@ -18,6 +18,7 @@ untuk menghitung luas lingkaran.
 untuk menginput 3 buah bilangan, kemudian
 tentukan bilangan terbesar, terkecil dan rataratanya.
 
+*JAWABAN*
 
 Tugas nomer 1
 

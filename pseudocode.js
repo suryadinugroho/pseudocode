@@ -7,11 +7,11 @@ console.log(menghitungluaspersegipanjang(25, 15));
 
 
 //tugas nomer 4
-function menghitung_luas_lingkaran(phi, r){
-    let luas = phi*r*r;
-    return luas
-}
-console.log(menghitung_luas_lingkaran(15, 7))
+let r = 10;
+let luasLingkaran = Math.PI * (r * r);
+
+console.log(luasLingkaran);
+
 
 
 //tugas nomer 3
@@ -20,7 +20,7 @@ for(var i=1; i<=5;i++){
           console.log(i, "ini bilangan ganjil")
 
     }else{
-      console.log(i)
+      console.log(i, "ini bilangan genap")
     }
   }
 

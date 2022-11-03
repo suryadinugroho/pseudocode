@@ -69,6 +69,7 @@ deklarasi:
 var bilangan, hasil :angka
 
 deskripsi: 
+
 baca (bilangan)
 
 hasil = bilangan % 2

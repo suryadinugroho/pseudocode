@@ -30,9 +30,9 @@ var panjang,lebar,luas:angka;
 
 Algoritma:
 
-baca (panjang( ))
+baca (panjang)
 
-baca (lebar( ))
+baca (lebar)
 
 Luas = (Panjang * lebar)
 
@@ -41,7 +41,7 @@ tulis (luas)
 
 Tugas 2
 
-Mengubah jam dan menit yang di input ke dalam satuan detik.
+Program Mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
 
 
 Jam, menit, hasil : integer
@@ -73,7 +73,7 @@ Bilangan, hasil :angka;
 
 Deskripsi: 
 
-baca (Bilangan( ))
+baca (Bilangan)
 
 hasil = Bilangan % 2
 
@@ -98,9 +98,9 @@ var r, luas :angka;
 
 Algoritma:
 
-baca (phi (3,14))
+baca (phi 3,14)
 
-baca (r ( ))
+baca (r)
 
 luas  = (phi * r * r)
  

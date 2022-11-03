@@ -106,6 +106,29 @@ luas  = (phi * r * r)
 
 Program menentukan_bilangan_terkecil_terbesar_dan_rata-rata
 
+deklarasi
 
+var a, b, c:
 
+algoritma
+
+baca (a)
+
+baca(b)
+
+baca(c)
+
+bilangan terbesar :
+
+jika (a > b dan a > c )maka
+
+    cetak(terbesar a)
+
+jika (b > a dan b > c)maka
+
+    cetak(terbesar b)
+
+jika (c > a dan c > b )maka
+
+     cetak(terbesar c)
 

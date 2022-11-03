@@ -91,15 +91,13 @@ Program menghitung_luas_lingkaran
 
 deklarasi:
 
-var phi,r,hasil:angka
+var r,hasil:angka
 
 algoritma:
 
-baca (phi = 3,14)
-
 baca (r)
 
-luas  = (phi * r * r)
+luas  = (3,14 * r * r)
  
  tulis(luas)
 

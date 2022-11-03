@@ -22,9 +22,9 @@ tentukan bilangan terbesar, terkecil dan rataratanya.
 
 Tugas nomer 1
 
-Program Menghitung_luas_persegi_panjang
+Program menghitung_luas_persegi_panjang
 
-Deklarasi:
+deklarasi:
 
 var panjang,lebar,luas:angka;
 
@@ -34,71 +34,66 @@ baca (panjang)
 
 baca (lebar)
 
-Luas = (Panjang * lebar)
+luas = (panjang * lebar)
 
 tulis (luas)
 
 
 Tugas 2
 
-Program Mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
+Program mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
 
+deklarasi:
 
-Jam, menit, hasil : angka ;
+jam, menit, hasil : angka ;
 
-ALGORITMA :
-
-cetak (“masukkan nilai jam:”)
-
-cetak (“masukkan nilai menit:”)
+algoritma :
 
 baca (menit)
 
-Jam = jam * 3600
+jam = jam * 3600
 
-Menit = menit * 60
+menit = menit * 60
 
-Hasil = jam * menit
+hasil = jam * menit
 
-cetak (“hasil konversi ke detik :” + hasil)
+cetak ( hasil)
 
 
 Tugas 3
 
-Program Menentukan_bilangan_ganjil_dan_genap
+Program menentukan_bilangan_ganjil_dan_genap
 
-Deklarasi: 
+deklarasi: 
 
-Bilangan, hasil :angka;
+bilangan, hasil :angka;
 
-Deskripsi: 
+deskripsi: 
 
-baca (Bilangan)
+baca (bilangan)
 
-hasil = Bilangan % 2
+hasil = bilangan % 2
 
-      if(bilangan !=0 ) maka
+      jika(bilangan tidak = 0 ) maka
        
        cetak "bilangan ganjil" 
        
-      else
+      lainnya
        
        cetak "bilangan genap"
 
 
 *Tugas 4
 
-Program Menghitung_luas_lingkaran
+Program menghitung_luas_lingkaran
 
-Deklarasi:
+deklarasi:
 
-var phi:angka desimal;
+var phi,r,hasil:angka
 
-var r, luas :angka;
+algoritma:
 
-Algoritma:
-
-baca (phi 3,14)
+baca (phi = 3,14)
 
 baca (r)
 
@@ -109,62 +104,3 @@ luas  = (phi * r * r)
 
 *Tugas 5 
 
-Input a,b,c
-
-   if a>b dan a>c maka
-   
-   if b>c maka
-   
-cetak "Terbesar a"
-
-cetak "Terkecil c"
-
-else 
-
-cetak "Terbesar a"
-
-cetak "Terkecil b"
-
-end if
-
-else 
-
-  if a>b dan a<c maka
-
-cetak "Terbesar c"
-
-cetak "Terkecil b"
-                  
-else
-                  
-   if a < b dan a > c maka
-   
-cetak "Terbesar b"
-
-cetak "Terkecil c"
-
-else
-
-   if b>c maka
-
-cetak "Terbesar b"
-
-cetak "Terkecil a"
-
-else
-
-cetak "terbesar c "
-
-cetak "Terkecil a"
-
-end if
-
-end if
-
-end if
-
-end if
-
-rata-rata = (a+b+c)/3
-
-cetak "rata-rata"

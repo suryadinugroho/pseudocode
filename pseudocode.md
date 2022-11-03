@@ -41,6 +41,26 @@ tulis (luas)
 
 Tugas 2
 
+Mengubah jam dan menit yang di input ke dalam satuan detik.
+
+
+Jam, menit, hasil : integer
+
+ALGORITMA :
+
+cetak (“masukkan nilai jam:”)
+
+cetak (“masukkan nilai menit:”)
+
+baca (menit)
+
+Jam = jam * 3600
+
+Menit = menit * 60
+
+Hasil = jam * menit
+
+cetak (“hasil konversi ke detik :” + hasil)
 
 
 Tugas 3

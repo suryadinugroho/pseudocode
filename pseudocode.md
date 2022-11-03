@@ -32,7 +32,7 @@ Algoritma:
 
 baca (panjang( ))
 
-baca (lebar ())
+baca (lebar( ))
 
 Luas = (Panjang * lebar)
 

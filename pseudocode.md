@@ -123,7 +123,7 @@ cetak "Terkecil c"
 
 else
 
-if b>c maka
+   if b>c maka
 
 cetak "Terbesar b"
 

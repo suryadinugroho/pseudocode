@@ -1,4 +1,4 @@
-cara membuka hasil java di google
+cara membuka hasil javascript di google chrome /* Koreksi */
 
 1.open filenya ke googlr chrome
 

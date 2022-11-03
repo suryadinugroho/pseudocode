@@ -107,7 +107,7 @@ cetak "Terkecil b"
 
 else 
 
-   if a>b dan a<c maka
+  if a>b dan a<c maka
 
 cetak "Terbesar c"
 
@@ -148,4 +148,3 @@ end if
 rata-rata = (a+b+c)/3
 
 cetak "rata-rata"
-

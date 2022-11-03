@@ -106,9 +106,6 @@ luas  = (phi * r * r)
 
 Program menentukan_bilangan_terkecil_terbesar_dan_rata-rata
 
-deklarasi:
-
-var bilangan :angka
 
 
 

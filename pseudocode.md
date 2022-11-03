@@ -76,7 +76,7 @@ baca (bilangan)
 
 hasil = bilangan % 2
 
-      jika(bilangan tidak = 0 ) maka
+      jika(hasil tidak = 0 ) maka
        
        cetak "bilangan ganjil" 
        

@@ -79,11 +79,11 @@ hasil = Bilangan % 2
 
       if(bilangan !=0 ) maka
        
-       bilangan ganjil 
+       cetak "bilangan ganjil" 
        
       else
        
-       bilangan genap
+       cetak "bilangan genap"
 
 
 *Tugas 4

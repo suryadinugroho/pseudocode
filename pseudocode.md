@@ -49,7 +49,9 @@ var jam, menit, hasil : angka
 
 algoritma :
 
-baca (menit)
+baca(jam)
+
+baca(menit)
 
 jam = jam * 3600
 
@@ -128,7 +130,22 @@ jika (b > a dan b > c)maka
 
     cetak(terbesar b)
 
-jika (c > a dan c > b )maka
+lainnya
 
      cetak(terbesar c)
 
+jika (a < b dan a < c )maka
+
+     cetak(terkecil a)
+
+jika (b < a dan b < c)maka
+
+      cetak(terkecil b)
+ 
+lainnya
+     
+     cetak(terkecil c)
+     
+rata-rata = (a+b+c)/3
+     
+     cetak(rata-rata)

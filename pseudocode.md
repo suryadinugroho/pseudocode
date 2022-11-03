@@ -45,7 +45,7 @@ Program mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
 
 deklarasi:
 
-jam, menit, hasil : angka ;
+var jam, menit, hasil : angka ;
 
 algoritma :
 
@@ -66,7 +66,7 @@ Program menentukan_bilangan_ganjil_dan_genap
 
 deklarasi: 
 
-bilangan, hasil :angka;
+var bilangan, hasil :angka;
 
 deskripsi: 
 
@@ -103,4 +103,12 @@ luas  = (phi * r * r)
 
 
 *Tugas 5 
+
+Program menentukan_bilangan_terkecil_terbesar_dan_rata-rata
+
+deklarasi:
+
+var bilangan :angka
+
+
 

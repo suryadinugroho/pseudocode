@@ -44,7 +44,7 @@ Tugas 2
 Program Mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
 
 
-Jam, menit, hasil : integer
+Jam, menit, hasil : angka ;
 
 ALGORITMA :
 

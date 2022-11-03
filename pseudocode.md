@@ -24,15 +24,15 @@ Tugas nomer 1
 
 Program Menghitung_luas_persegi_panjang
 
-Deklarasi
+Deklarasi:
 
 var panjang,lebar,luas:angka;
 
-Algoritma
+Algoritma:
 
-baca (panjang(10))
+baca (panjang( ))
 
-baca (lebar (5))
+baca (lebar ())
 
 Luas = (Panjang * lebar)
 
@@ -47,11 +47,12 @@ Tugas 3
 
 Program Menentukan_bilangan_ganjil_dan_genap
 
-Deklarasi
+Deklarasi: 
 
 Bilangan, hasil :angka;
 
-Deskripsi
+Deskripsi: 
+
 baca (Bilangan( ))
 
 hasil = Bilangan % 2
@@ -69,13 +70,13 @@ Tugas 4
 
 Program Menghitung_luas_lingkaran
 
-Deklarasi
+Deklarasi:
 
 var phi:angka desimal;
 
 var r, luas :angka;
 
-Algoritma
+Algoritma:
 
 baca (phi (3,14))
 

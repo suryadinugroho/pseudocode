@@ -26,7 +26,7 @@ Program menghitung_luas_persegi_panjang
 
 deklarasi:
 
-var panjang,lebar,luas:angka;
+var panjang,lebar,luas:angka
 
 Algoritma:
 
@@ -45,7 +45,7 @@ Program mengubah_jam_dan_menit_yang_di_input_ke_dalam_satuan_detik.
 
 deklarasi:
 
-var jam, menit, hasil : angka ;
+var jam, menit, hasil : angka 
 
 algoritma :
 
@@ -66,7 +66,7 @@ Program menentukan_bilangan_ganjil_dan_genap
 
 deklarasi: 
 
-var bilangan, hasil :angka;
+var bilangan, hasil :angka
 
 deskripsi: 
 

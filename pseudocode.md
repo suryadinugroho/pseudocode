@@ -85,3 +85,66 @@ baca (r ( ))
 luas  = (phi * r * r)
  
  tulis(luas)
+
+Tugas 5 
+
+Input a,b,c
+
+   if a>b dan a>c maka
+   
+   if b>c maka
+   
+cetak "Terbesar a"
+
+cetak "Terkecil c"
+
+else 
+
+cetak "Terbesar a"
+
+cetak "Terkecil b"
+
+else 
+
+   if a>b dan a<c maka
+
+cetak "Terbesar c"
+
+cetak "Terkecil b"
+                  
+else
+                  
+   if a<b dan a>c maka
+   
+cetak "Terbesar b"
+
+cetak "Terkecil c"
+
+else
+
+if b> c maka
+
+cetak "Terbesar b"
+
+cetak "Terkecil a"
+
+else
+
+cetak "terbesar c "
+
+cetak "Terkecil a"
+
+end if
+
+end if
+
+end if
+
+end if
+
+end if
+
+rata-rata = (a+b+c)/3
+
+cetak "rata-rata"
+

@@ -25,17 +25,18 @@ Tugas nomer 1
 Program Menghitung_luas_persegi_panjang
 
 Deklarasi
-var panjang,lebar:integer;
+
+var panjang,lebar,luas:angka;
 
 Algoritma
 
-panjang(10)
+baca (panjang(10))
 
-lebar (5)
+baca (lebar (5))
 
-Luas <- (Panjang * lebar)
+Luas = (Panjang * lebar)
 
-write (luas)
+tulis (luas)
 
 
 Tugas 2
@@ -44,22 +45,24 @@ Tugas 2
 
 Tugas 3
 
-let bilangan = 99
-
 Program Menentukan_bilangan_ganjil_dan_genap
 
 Deklarasi
-Bilangan, hasil :integer;
-bilangan:string;
+
+Bilangan, hasil :angka;
 
 Deskripsi
-Bilangan( )
+baca (Bilangan( ))
 
 hasil = Bilangan % 2
-      if(bilangan !=0 ) then
+
+      if(bilangan !=0 ) maka
+       
        bilangan ganjil 
+       
       else
-        bilangan genap
+       
+       bilangan genap
 
 
 Tugas 4
@@ -67,13 +70,17 @@ Tugas 4
 Program Menghitung_luas_lingkaran
 
 Deklarasi
-var phi:float;
-var r, luas :integer;
+
+var phi:angka desimal;
+
+var r, luas :angka;
 
 Algoritma
-phi (3,14)
-r ( )
+
+baca (phi (3,14))
+
+baca (r ( ))
 
 luas  = (phi * r * r)
  
- write(luas)
+ tulis(luas)

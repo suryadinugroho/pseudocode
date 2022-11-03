@@ -105,6 +105,8 @@ cetak "Terbesar a"
 
 cetak "Terkecil b"
 
+end if
+
 else 
 
   if a>b dan a<c maka
@@ -134,8 +136,6 @@ else
 cetak "terbesar c "
 
 cetak "Terkecil a"
-
-end if
 
 end if
 

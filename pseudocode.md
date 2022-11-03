@@ -66,7 +66,7 @@ hasil = Bilangan % 2
        bilangan genap
 
 
-Tugas 4
+*Tugas 4
 
 Program Menghitung_luas_lingkaran
 
@@ -86,7 +86,8 @@ luas  = (phi * r * r)
  
  tulis(luas)
 
-Tugas 5 
+
+*Tugas 5 
 
 Input a,b,c
 

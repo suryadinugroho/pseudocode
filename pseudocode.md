@@ -57,7 +57,7 @@ jam = jam * 3600
 
 menit = menit * 60
 
-hasil = jam * menit
+hasil = jam + menit
 
 cetak ( hasil)
 

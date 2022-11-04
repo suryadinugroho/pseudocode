@@ -21,9 +21,9 @@ console.log("ini konversi jam ke detik "+hasil(jam, menit))
 let bilangan = 51;
 
 if(bilangan % 2 == 0){
-  console.log("ini bilangan genap")
+  console.log(bilangan +" adalah bilangan genap")
 }else{
-  console.log("ini bilangan ganjil")
+  console.log(bilangan+" adalah bilangan ganjil")
 }
 
 

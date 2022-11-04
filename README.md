@@ -1,10 +1,9 @@
-cara membuka hasil javascript 
+#Pseudocode
 
-1.open filenya ke google chrome
+Tugas pseudocode
 
-2.lalu klik kanan pilih inspect
+Tugas pseudocode, 28 Oktober 2022
 
-3.pilih console dibagian kiri layar
+Tugas pseudocode ini adalah tugas untuk memahami materi logika pemrograman dasar
 
-
-
+-------------------------------------------------------------------------------------

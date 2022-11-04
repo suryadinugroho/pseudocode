@@ -18,7 +18,13 @@ console.log("ini konversi jam ke detik "+hasil(jam, menit))
 `   
 
 //tugas nomer 3
+let bilangan = 51;
 
+if(bilangan % 2 == 0){
+  console.log("ini bilangan genap")
+}else{
+  console.log("ini bilangan ganjil")
+}
 
 
 //tugas nomer 4

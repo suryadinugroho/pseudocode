@@ -14,8 +14,8 @@ function hasil(){
   let detik = (jam * 3600) + (menit * 60 );
   return detik
 }
-console.log("ini konversi jam ke detik "+hasil(jam, menit))
-`   
+console.log(hasil(jam, menit))
+   
 
 //tugas nomer 3
 let bilangan = 51;

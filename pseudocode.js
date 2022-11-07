@@ -18,43 +18,52 @@ console.log(hasil(jam, menit))
    
 
 //tugas nomer 3
-let bilangan = 51;
+let bilangan = 53;
 
-if(bilangan % 2 == 0){
-  console.log(bilangan +" adalah bilangan genap")
-}else{
-  console.log(bilangan+" adalah bilangan ganjil")
+function ganjilGenap(bilangan) {
+    if(bilangan % 2 == 0) 
+    return 'Genap';
+    else return 'Ganjil';
 }
+console.log(ganjilGenap())
 
 
 //tugas nomer 4
-let r = 10;
-let luasLingkaran = Math.PI * (r * r);
+let r =15;
 
-console.log(luasLingkaran);
-
-
+function luaslingkaran(){
+  let luas = Math.PI*(r*r)
+  return luas
+}
+console.log(luaslingkaran(r))
 
 
 //tugas nomer 5 
-var a = 111;
-var b = 71;
-var c = 120;
+let a = 90;
+let b = 160;
+let c = 111;
 
-if ( a>b & a>c ){
-  console.log("terbesar " + a )
-}else if (b>a & b>c){
-  console.log( "terbesar " + b )
-}else{
-  console.log("terbesar " + c )
+function terbesar(){
+if (a>b & a>c){
+   return 'terbesar a';
+  }else if (b>a & b>c){
+    return 'terbesar b';
+  }else{
+  return 'terbesar c';
+  }
 }
-if (a<b & a<c){
-  console.log("terkecil " + a)
-}else if (b<a & b<c){
-  console.log("terkecil " + b)
-}else{
-  console.log("terkecil " + c)
+console.log(terbesar(a, b, c))
+
+function terkecil(){
+if(a<b & a<c){
+  return 'terkecil a';
+  }else if (b<a & b<c){
+  return 'terkecil b';
+  }else{
+  return 'terkecil c';
+  }
 }
+console.log(terkecil(a,b,c))
 
 function rata_rata(){
    var rata_rata = (a+b+c)/3

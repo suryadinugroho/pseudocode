@@ -14,7 +14,7 @@ function hasiljam(){
   let detik = jam * 3600 ;
   return detik
 }
-console.log(hasiljam(jam)+' detik')
+console.log(hasiljam()+' detik')
 
 function hasilmenit(){
   let detik = menit * 60;

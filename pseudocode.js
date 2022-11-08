@@ -10,11 +10,19 @@ console.log(menghitungluaspersegipanjang(25, 15));
 let jam = 2;
 let menit = 2;
 
-function hasil(){
-  let detik = (jam * 3600) + (menit * 60 );
+function hasiljam(){
+  let detik = jam * 3600 ;
   return detik
 }
-console.log(hasil(jam, menit))
+console.log(hasiljam(jam)+' detik')
+
+function hasilmenit(){
+  let detik = menit * 60;
+  return detik
+}
+console.log(hasilmenit()+' detik')
+
+
    
 
 //tugas nomer 3

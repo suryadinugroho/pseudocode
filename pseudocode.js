@@ -28,12 +28,12 @@ console.log(hasilmenit()+' detik')
 //tugas nomer 3
 let bilangan = 53;
 
-function ganjilGenap(bilangan) {
+function ganjilGenap() {
     if(bilangan % 2 == 0) 
     return 'Genap';
     else return 'Ganjil';
 }
-console.log(ganjilGenap())
+console.log(ganjilGenap(bilangan))
 
 
 //tugas nomer 4

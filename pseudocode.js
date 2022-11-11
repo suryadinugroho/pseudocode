@@ -37,15 +37,15 @@ console.log(ganjilGenap(bilangan))
 
 
 //tugas nomer 4
-let r =15;
-const phi = 3.14;
+let r = 13;
+const phi = Math.PI
 
 function luaslingkaran(){
-  let luas = phi*r*r;
-  return luas
+    let luas = phi * r * r;
+    return luas
 }
-console.log(luaslingkaran())
 
+console.log(luaslingkaran())
 
 //tugas nomer 5 
 let a = 90;
